@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=ECF704&width=435&lines=HI%2C+I+AM+GAD+!)](https://git.io/typing-svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake.svg" />
+</picture>
 
 <!--
 **gadniyibigira5/gadniyibigira5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
