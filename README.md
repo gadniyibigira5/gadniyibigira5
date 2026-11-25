@@ -1,9 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=ECF704&width=435&lines=HI%2C+I+AM+GAD+!)](https://git.io/typing-svg)
 <p align="center">
   <img src="hello-world.svg" width="300" alt="Hello World">
-  <br>
-  <br>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=ECF704&width=435&lines=HI%2C+I+AM+GAD+!)](https://git.io/typing-svg)
 </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake.svg" />
