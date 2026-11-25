@@ -1,0 +1,62 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 150"
+     width="1000" height="150">
+
+  <defs>
+    <linearGradient id="sand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#80602A"/>
+      <stop offset="50%" stop-color="#ECF704"/>
+      <stop offset="100%" stop-color="#B88632"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g fill="none" stroke="url(#sand)"
+     stroke-width="0.8" opacity="0.75"
+     filter="url(#glow)">
+
+    <g>
+      <animateTransform attributeName="transform"
+        type="translate"
+        values="0 0; -18 2; 0 0"
+        dur="12s" repeatCount="indefinite"/>
+
+      <path d="M-20 105 Q180 5 360 85 T740 75 T1020 40"/>
+      <path d="M-20 115 Q180 15 360 95 T740 85 T1020 50"/>
+      <path d="M-20 125 Q180 25 360 105 T740 95 T1020 60"/>
+      <path d="M-20 135 Q180 35 360 115 T740 105 T1020 70"/>
+      <path d="M-20 145 Q180 45 360 125 T740 115 T1020 80"/>
+
+      <path d="M-20 95 Q180 -5 360 75 T740 65 T1020 30"/>
+      <path d="M-20 85 Q180 -15 360 65 T740 55 T1020 20"/>
+      <path d="M-20 75 Q180 -25 360 55 T740 45 T1020 10"/>
+    </g>
+
+    <g opacity="0.65">
+      <animateTransform attributeName="transform"
+        type="translate"
+        values="0 0; 12 -3; 0 0"
+        dur="16s" repeatCount="indefinite"/>
+
+      <path d="M80 150 Q140 75 210 0"/>
+      <path d="M160 150 Q220 75 290 0"/>
+      <path d="M240 150 Q300 75 370 0"/>
+      <path d="M320 150 Q380 75 450 0"/>
+      <path d="M400 150 Q460 75 530 0"/>
+      <path d="M480 150 Q540 75 610 0"/>
+      <path d="M560 150 Q620 75 690 0"/>
+      <path d="M640 150 Q700 75 770 0"/>
+      <path d="M720 150 Q780 75 850 0"/>
+      <path d="M800 150 Q860 75 930 0"/>
+      <path d="M880 150 Q940 75 1010 0"/>
+    </g>
+  </g>
+</svg>
