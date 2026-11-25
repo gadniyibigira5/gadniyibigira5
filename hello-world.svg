@@ -14,7 +14,7 @@
 
   <!-- Window background -->
   <rect x="2" y="2" width="336" height="86"
-        rx="8" fill="#171717"
+        rx="8" 
         stroke="#A88B35" stroke-width="1"/>
 
   <!-- Window controls -->
