@@ -1,7 +1,49 @@
-<svg width="850" height="80" viewBox="0 0 850 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  
-  <path d="M 0 0 L 850 0 L 850 48 Q 640 85 425 48 T 0 58 Z" fill="#36BCF7" fill-opacity="0.25" />
+<svg width="850" height="200" viewBox="0 0 850 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    
+    <linearGradient id="gold-wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B45309" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#FACC15" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#D97706" stop-opacity="0.6" />
+    </linearGradient>
+
+    
+    <clipPath id="typing-clip">
+      <rect x="260" y="95" width="0" height="45">
+        <animate attributeName="width" from="0" to="330" dur="1.8s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .name {
+      font: 700 32px 'Segoe UI', system-ui, -apple-system, sans-serif;
+      fill: #F8FAFC;
+      letter-spacing: 2px;
+    }
+    .role {
+      font: 400 13px 'Courier New', monospace;
+      fill: #FACC15;
+      letter-spacing: 1px;
+      opacity: 0.9;
+    }
+  </style>
 
   
-  <path d="M 0 0 L 850 0 L 850 32 Q 620 68 410 34 T 0 42 Z" fill="#36BCF7" fill-opacity="0.85" />
+  <rect width="850" height="200" fill="#0D1117" />
+
+  
+  <path d="M 0 0 L 850 0 L 850 42 Q 630 85 425 45 T 0 55 Z" fill="#FACC15" opacity="0.18" />
+
+  
+  <path d="M 0 0 L 850 0 L 850 28 Q 610 68 410 32 T 0 40 Z" fill="url(#gold-wave)" />
+
+  
+  <text x="425" y="128" text-anchor="middle" class="name" clip-path="url(#typing-clip)">HI, I AM GAD</text>
+  
+  
+  <line x1="365" y1="144" x2="485" y2="144" stroke="#FACC15" stroke-width="1" opacity="0.4" />
+
+  
+  <text x="425" y="168" text-anchor="middle" class="role">Software Engineer • Full-Stack &amp; ML</text>
 </svg>
