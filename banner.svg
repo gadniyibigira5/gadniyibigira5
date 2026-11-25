@@ -1,0 +1,79 @@
+<svg width="850" height="240" viewBox="0 0 850 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    
+    <radialGradient id="gold-glow" cx="76%" cy="50%" r="48%">
+      <stop offset="0%" stop-color="#FACC15" stop-opacity="0.28" />
+      <stop offset="55%" stop-color="#D97706" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#09090B" stop-opacity="0" />
+    </radialGradient>
+
+    
+    <linearGradient id="gold-metallic" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FEF08A" />
+      <stop offset="50%" stop-color="#FACC15" />
+      <stop offset="100%" stop-color="#B45309" />
+    </linearGradient>
+
+    
+    <clipPath id="typing-clip">
+      <rect x="60" y="65" width="0" height="55">
+        <animate attributeName="width" from="0" to="350" dur="2s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .title {
+      font: 800 38px 'Segoe UI', system-ui, -apple-system, sans-serif;
+      fill: #FAFAFA;
+      letter-spacing: 1.5px;
+    }
+    .subtitle {
+      font: 500 15px 'Courier New', monospace;
+      fill: #FACC15;
+      letter-spacing: 0.5px;
+    }
+    .pill-text {
+      font: 700 11px 'Segoe UI', system-ui, sans-serif;
+      fill: #09090B;
+      letter-spacing: 1px;
+    }
+  </style>
+
+  
+  <rect width="850" height="240" rx="16" fill="#09090B" stroke="#27272A" stroke-width="2" />
+  <rect width="850" height="240" rx="16" fill="url(#gold-glow)" />
+
+  
+  <path d="M 0 60 L 850 60 M 0 180 L 850 180 M 520 0 L 520 240" stroke="#FACC15" stroke-width="0.5" opacity="0.08" />
+
+  
+  <g transform="translate(675, 120)">
+    
+    <circle cx="0" cy="0" r="82" fill="none" stroke="#FACC15" stroke-width="1" stroke-dasharray="6 6" opacity="0.35" />
+    
+    <polygon points="0,-68 59,-34 59,34 0,68 -59,34 -59,-34" fill="none" stroke="url(#gold-metallic)" stroke-width="2" opacity="0.85" />
+    
+    <polygon points="0,-46 46,0 0,46 -46,0" fill="#FACC15" fill-opacity="0.1" stroke="#FEF08A" stroke-width="1.5" />
+    
+    <circle cx="0" cy="0" r="14" fill="url(#gold-metallic)" />
+    <circle cx="0" cy="0" r="22" fill="none" stroke="#FACC15" stroke-width="1" opacity="0.6" />
+  </g>
+
+  
+  <text x="60" y="106" class="title" clip-path="url(#typing-clip)">HI, I AM GAD</text>
+  <text x="62" y="138" class="subtitle">Software Engineer • Full-Stack &amp; ML</text>
+
+  
+  <rect x="60" y="162" width="142" height="28" rx="14" fill="url(#gold-metallic)" />
+  <text x="82" y="180" class="pill-text">BUILDING IN 2026</text>
+
+  
+  
+  <path d="M 45 55 L 75 55 M 45 55 L 45 85" stroke="#FACC15" stroke-width="3" stroke-linecap="round" fill="none" />
+  
+  <path d="M 805 185 L 775 185 M 805 185 L 805 155" stroke="#FACC15" stroke-width="3" stroke-linecap="round" fill="none" />
+  
+  <polygon points="342,72 354,72 348,82" fill="#FACC15" opacity="0.9" />
+  <line x1="60" y1="116" x2="145" y2="116" stroke="url(#gold-metallic)" stroke-width="3" stroke-linecap="round" />
+</svg>
