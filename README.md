@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=ECF704&width=435&lines=HI%2C+I+AM+GAD+!)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=ECF704&width=435&lines=HI%2C+I+AM+GAD+!" alt="Typing SVG" /></a>
+
 
 <!--
 **gadniyibigira5/gadniyibigira5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
