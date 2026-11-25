@@ -8,7 +8,7 @@
              width="4" height="4"
              patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.45"
-              fill="#F4D35E"/>
+              fill="#D1F711FF"/>
     </pattern>
   </defs>
 
