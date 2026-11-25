@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="desert-wave.svg" width="100%" alt="Animated golden desert waves">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=ECF704&width=435&lines=HI%2C+I+AM+GAD+!)](https://git.io/typing-svg)
 <p align="center">
   <img src="hello-world.svg" width="300" alt="Hello World">
