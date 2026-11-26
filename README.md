@@ -30,6 +30,34 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=ECF704&center=true&vCenter=true&width=280&height=40&lines=TECH+%26+TOOLS" alt="TECH & TOOLS" />
 </div>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=ECF704" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=E8D8B8" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=ECF704" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=E8D8B8" alt="Java" />
+    <img src="https://img.shields.io/badge/PHP-161b22?style=for-the-badge&logo=php&logoColor=ECF704" alt="PHP" />
+    <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=E8D8B8" alt="C" />
+    <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=ECF704" alt="C++" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=ECF704" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=E8D8B8" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-161b22?style=for-the-badge&logo=express&logoColor=ECF704" alt="Express" />
+    <img src="https://img.shields.io/badge/Expo-161b22?style=for-the-badge&logo=expo&logoColor=E8D8B8" alt="Expo" />
+    <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=ECF704" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=E8D8B8" alt="MySQL" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=ECF704" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=E8D8B8" alt="GitHub" />
+    <img src="https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=ECF704" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Photoshop-161b22?style=for-the-badge&logo=adobephotoshop&logoColor=E8D8B8" alt="Photoshop" />
+    <img src="https://img.shields.io/badge/Lightroom-161b22?style=for-the-badge&logo=adobelightroom&logoColor=ECF704" alt="Lightroom" />
+    <img src="https://img.shields.io/badge/PowerPoint-161b22?style=for-the-badge&logo=microsoftpowerpoint&logoColor=E8D8B8" alt="PowerPoint" />
+  </p>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake.svg" />
