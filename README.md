@@ -12,6 +12,21 @@
 <p align="center">
   <img src="https://img.shields.io/badge/WHO%20I%20AM-ECF704?style=for-the-badge&labelColor=171717" alt="WHO I AM">
 </p>
+<br>
+
+<table>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <img src="YOUR_IMAGE_URL" width="180" alt="Profile image">
+    </td>
+    <td width="65%" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=ECF704&vCenter=true&width=200&height=35&lines=WHO+I+AM" alt="WHO I AM" />
+      <p>
+        Your introduction goes here.
+      </p>
+    </td>
+  </tr>
+</table>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake.svg" />
