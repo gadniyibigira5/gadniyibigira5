@@ -25,6 +25,11 @@
     </td>
   </tr>
 </table>
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=ECF704&center=true&vCenter=true&width=280&height=40&lines=TECH+%26+TOOLS" alt="TECH & TOOLS" />
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake.svg" />
