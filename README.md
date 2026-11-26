@@ -9,6 +9,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=ECF704&width=435&lines=HI%2C+I+AM+GAD+!)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/WHO%20I%20AM-ECF704?style=for-the-badge&labelColor=171717" alt="WHO I AM">
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake.svg" />
