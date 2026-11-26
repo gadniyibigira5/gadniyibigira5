@@ -1,0 +1,24 @@
+<svg width="520" height="240" viewBox="0 0 520 240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bio {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      fill: #e6edf3;
+    }
+  </style>
+
+  <text x="0" y="20" class="bio">
+    <tspan x="0" dy="0">I'm a Computer Science student, a curious mind, and a builder in</tspan>
+    <tspan x="0" dy="22">progress. I enjoy exploring how technology works, turning ideas into</tspan>
+    <tspan x="0" dy="22">code, and learning how to create solutions that serve a real purpose.</tspan>
+
+    <tspan x="0" dy="36">My journey is still unfolding. Every project, challenge, and new</tspan>
+    <tspan x="0" dy="22">concept gives me another opportunity to grow, think differently, and</tspan>
+    <tspan x="0" dy="22">become a better problem solver.</tspan>
+
+    <tspan x="0" dy="36">I believe good software starts with curiosity, grows through</tspan>
+    <tspan x="0" dy="22">experimentation, and becomes meaningful when it solves real</tspan>
+    <tspan x="0" dy="22">problems.</tspan>
+  </text>
+</svg>
