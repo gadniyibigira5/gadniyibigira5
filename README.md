@@ -17,13 +17,11 @@
 <table>
   <tr>
     <td width="35%" valign="middle" align="center">
-      <img src="YOUR_IMAGE_URL" width="180" alt="Profile image">
+      <img src="gad.png" width="600" alt="Profile image">
     </td>
     <td width="65%" valign="middle">
       <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=ECF704&vCenter=true&width=200&height=35&lines=WHO+I+AM" alt="WHO I AM" />
-      <p>
-        Your introduction goes here.
-      </p>
+     <img src="bio.svg" width="100%" alt="Bio" />
     </td>
   </tr>
 </table>
