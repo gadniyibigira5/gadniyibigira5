@@ -57,6 +57,18 @@
     <img src="https://img.shields.io/badge/PowerPoint-161b22?style=for-the-badge&logo=microsoftpowerpoint&logoColor=E8D8B8" alt="PowerPoint" />
   </p>
 </div>
+<div align="center">
+  <a href="https://github.com/gadniyibigira5/nexus-backend-student-management">
+    <img src="card-nexus.svg" width="360" alt="Nexus Student Management" />
+  </a>
+  <a href="https://github.com/gadniyibigira5/swe3513-cat1-g14">
+    <img src="card-milkcheck.svg" width="360" alt="MilkCheck Model Card" />
+  </a>
+  <br>
+  <a href="https://github.com/gadniyibigira5/swe3409-cat1-g14">
+    <img src="card-mobile.svg" width="360" alt="Cross-Platform Mobile App" />
+  </a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake-dark.svg" />
