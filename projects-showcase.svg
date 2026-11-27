@@ -60,13 +60,13 @@
       <text x="20" y="34" class="title">🎓 Nexus Student Management</text>
       <text x="20" y="58" class="desc">Full-stack student management API &amp; backend.</text>
       <text x="20" y="88" class="stack">Node.js • Express • PostgreSQL</text>
-      <rect x="226" y="96" width="90" height="22" rx="11" fill="#9BBF00" />
+      <rect x="226" y="96" width="90" height="22" rx="0" fill="#9BBF00" />
       <text x="271" y="111" text-anchor="middle" class="btn">Explore →</text>
     </g>
 
     
     <g class="card-2">
-      <rect x="0" y="0" width="336" height="132" rx="14" fill="#161b22" stroke="#9BBF00" stroke-width="1.4" filter="url(#neonGlow)" />
+      <rect x="0" y="0" width="336" height="132" rx="0" fill="#161b22" stroke="#9BBF00" stroke-width="1.4" filter="url(#neonGlow)" />
       <text x="20" y="34" class="title">🥛 MilkCheck Model Card</text>
       <text x="20" y="58" class="desc">ML evaluation suite &amp; automated model cards.</text>
       <text x="20" y="88" class="stack">Python • Pandas • Pytest</text>
@@ -76,7 +76,7 @@
 
     
     <g class="card-3">
-      <rect x="0" y="0" width="336" height="132" rx="14" fill="#161b22" stroke="#9BBF00" stroke-width="1.4" filter="url(#neonGlow)" />
+      <rect x="0" y="0" width="336" height="132" rx="0" fill="#161b22" stroke="#9BBF00" stroke-width="1.4" filter="url(#neonGlow)" />
       <text x="20" y="34" class="title">📱 Cross-Platform Mobile App</text>
       <text x="20" y="58" class="desc">Mobile app configured for Android EAS builds.</text>
       <text x="20" y="88" class="stack">TypeScript • React • Expo</text>
