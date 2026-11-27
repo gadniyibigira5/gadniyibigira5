@@ -58,16 +58,20 @@
   </p>
 </div>
 <div align="center">
-  <a href="https://github.com/gadniyibigira5/nexus-backend-student-management">
-    <img src="card-nexus.svg" width="360" alt="Nexus Student Management" />
+  <a href="https://github.com/gadniyibigira5?tab=repositories">
+    <img src="projects-showcase.svg" width="100%" alt="Featured Projects Showcase" />
   </a>
-  <a href="https://github.com/gadniyibigira5/swe3513-cat1-g14">
-    <img src="card-milkcheck.svg" width="360" alt="MilkCheck Model Card" />
-  </a>
-  <br>
-  <a href="https://github.com/gadniyibigira5/swe3409-cat1-g14">
-    <img src="card-mobile.svg" width="360" alt="Cross-Platform Mobile App" />
-  </a>
+  <p>
+    <a href="https://github.com/gadniyibigira5/swe3513-cat1-g14">
+      <img src="https://img.shields.io/badge/MilkCheck_Model_Card-161b22?style=for-the-badge&logo=python&logoColor=E8D8B8" alt="MilkCheck" />
+    </a>
+    <a href="https://github.com/gadniyibigira5/nexus-backend-student-management">
+      <img src="https://img.shields.io/badge/★_Nexus_Student_Management-161b22?style=for-the-badge&logo=nodedotjs&logoColor=9BBF00" alt="Nexus Student Management" />
+    </a>
+    <a href="https://github.com/gadniyibigira5/swe3409-cat1-g14">
+      <img src="https://img.shields.io/badge/Mobile_App_(EAS)-161b22?style=for-the-badge&logo=expo&logoColor=E8D8B8" alt="Mobile App" />
+    </a>
+  </p>
 </div>
 
 <picture>
