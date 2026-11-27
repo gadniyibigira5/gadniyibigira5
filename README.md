@@ -85,6 +85,25 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/gadniyibigira5/gadniyibigira5/output/github-snake.svg" />
 </picture>
 
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=ECF704&center=true&vCenter=true&width=320&height=40&lines=CONNECT+WITH+ME" alt="CONNECT WITH ME" />
+  <p>
+    <a href="mailto:gadniyibigira5@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=ECF704" alt="Gmail" />
+    </a>
+    <a href="https://www.instagram.com/only_gad942">
+      <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E8D8B8" alt="Instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+      <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=9BBF00" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/only_gad942">
+      <img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=E8D8B8" alt="X" />
+    </a>
+  </p>
+</div>
 <!--
 **gadniyibigira5/gadniyibigira5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
