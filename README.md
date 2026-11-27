@@ -57,6 +57,11 @@
     <img src="https://img.shields.io/badge/PowerPoint-161b22?style=for-the-badge&logo=microsoftpowerpoint&logoColor=E8D8B8" alt="PowerPoint" />
   </p>
 </div>
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=ECF704&center=true&vCenter=true&width=360&height=40&lines=FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
+</div>
 <div align="center">
   <a href="https://github.com/gadniyibigira5?tab=repositories">
     <img src="projects-showcase.svg" width="100%" alt="Featured Projects Showcase" />
