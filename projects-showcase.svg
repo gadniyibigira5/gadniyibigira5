@@ -56,7 +56,7 @@
   <g mask="url(#fadeMask)">
     
     <g class="card-1">
-      <rect x="0" y="0" width="336" height="132" rx="14" fill="#161b22" stroke="#9BBF00" stroke-width="1.4" filter="url(#neonGlow)" />
+      <rect x="0" y="0" width="336" height="132" rx="0" fill="#161b22" stroke="#9BBF00" stroke-width="1.4" filter="url(#neonGlow)" />
       <text x="20" y="34" class="title">🎓 Nexus Student Management</text>
       <text x="20" y="58" class="desc">Full-stack student management API &amp; backend.</text>
       <text x="20" y="88" class="stack">Node.js • Express • PostgreSQL</text>
